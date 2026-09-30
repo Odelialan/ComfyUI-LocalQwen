@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Model weights / large files — never commit
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.gguf
+*.onnx
+*.h5
+
+# Tests (kept local, not published)
+test_*.py
+*_test.py
+tests/
+
+# Logs & OS junk
+*.log
+.DS_Store
+Thumbs.db

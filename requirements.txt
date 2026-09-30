@@ -1,0 +1,1 @@
+# Uses the transformers / bitsandbytes / accelerate already in the ComfyUI venv.

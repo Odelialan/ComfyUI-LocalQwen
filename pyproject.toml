@@ -1,0 +1,10 @@
+[project]
+name = "comfyui-localqwen"
+description = "Call local Qwen3-VL / Qwen3 Instruct models for captioning, prompt generation, and translation."
+version = "1.0.0"
+license = "MIT"
+
+[tool.comfy]
+PublisherId = "local"
+DisplayName = "ComfyUI-LocalQwen"
+Icon = ""
